@@ -1,5 +1,8 @@
 [package]
 
-name = "hello"
+name = "iup"
 version = "0.0.1"
 authors = [ "Willem Mali <willem.mali@gmail.com>" ]
+
+[dependencies.iup]
+git = "https://github.com/dcampbell24/iup-rust"
